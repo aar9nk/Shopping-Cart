@@ -1,0 +1,43 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.text-blue {
+  color: #267af2;
+}
+.Logo {
+  width: 2rem;
+}
+.ImageSmall {
+  height: 5rem;
+  padding: 1rem;
+}
+.ImageMedium {
+  height: 8rem;
+  padding: 1rem;
+}
+.btn-black {
+  background: transparent;
+  font-size: 0.8rem !important;
+  color: black;
+  border: 1px solid #267af2;
+}
+
+.btn-black:hover {
+  background: #267af2;
+  color: #fff;
+}
+.MiddleButton:hover {
+  background: transparent;
+  font-size: 0.8rem !important;
+  color: black;
+  border: 1px solid #267af2;
+}
+.cart-icon {
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: #228b22;
+}
+.cart-icon:hover {
+  cursor: pointer;
+  color: #ff0000;
+}

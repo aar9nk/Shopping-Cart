@@ -1,0 +1,14 @@
+{
+  "short_name": "Aaron's Shopping Cart",
+  "name": "A quick example at a cart for a site",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "https://aaron-shopping-cart.netlify.com",
+  "display": "standalone",
+  "theme_color": "#fff"
+}
