@@ -1,4 +1,4 @@
-# README
+# Shopping Cart
 
 https://aaron-shopping-cart.netlify.app
 
